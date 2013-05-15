@@ -9,6 +9,8 @@
 <ul>
 	<li> hhhhhh</li>
 </ul>
+<p>Nous supportons plus l'IE8</p>
+
 <div class="main_home">
 	<?php
 		/*
