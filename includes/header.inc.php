@@ -46,6 +46,7 @@
 						<li class="<?php echo ($page=='trad')?'active':''; ?>"><a href="portfolio-acrylique.php"><?=$_s['header']['menu_trad']?></a></li>
 						<li class="<?php echo ($page=='digital')?'active':''; ?>"><a href="portfolio-numerique.php"><?=$_s['header']['menu_digital']?></a></li>
 						<li class="<?php echo ($page=='cv')?'active':''; ?>"><a href="#"><?=$_s['header']['menu_cv']?></a></li>
+					
 					</ul>
 					<ul class="right">
 						<li class='group'><a href="<?php echo $_SERVER["PHP_SELF"]."?lan=fr"; ?>">FR</a> | </li>

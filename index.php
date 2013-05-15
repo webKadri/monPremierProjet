@@ -8,6 +8,7 @@
 </div>
 <ul>
 	<li> accueil</li>
+	<li> encore un lien</li>
 </ul>
 <div class="main_home">
 	<?php
