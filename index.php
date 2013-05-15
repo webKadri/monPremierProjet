@@ -2,7 +2,13 @@
 	$page = 'home';
 	include_once('includes/header.inc.php'); 
 ?>
-<div> Premier ajout</div>
+<div> 
+	Premier ajout
+	<p>	Un autre ajout </p>
+</div>
+<ul>
+	<li> hhhhhh</li>
+</ul>
 <div class="main_home">
 	<?php
 		/*
