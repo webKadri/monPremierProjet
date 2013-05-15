@@ -21,7 +21,7 @@
 ?>
 
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html lang="<?=$lan?>" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if lt IE 7]>      <html lang="<?=$lan?>" class =''class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html lang="<?=$lan?>" lang="<?=$lan?>" class="lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html lang="<?=$lan?>" lang="<?=$lan?>" lang="<?=$lan?>" class="lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html lang="<?=$lan?>"> <!--<![endif]-->
@@ -30,9 +30,7 @@
 		<title><?=$_s['header']['title_'.$page]?></title>
 		<meta charset="utf-8">
 		<meta name="description" content="<?=$_s['header']['meta_desc_'.$page]?>">
-		<!--[if lt IE 9]>
-		<script src="assets/js/lib/html5shiv.js"></script>
-		<![endif]-->
+		
 		<link rel="stylesheet" href="assets/styles/css/normalize.css">
 		<link rel="stylesheet" href="assets/styles/css/iconfonts.css">
 		<link rel="stylesheet" href="assets/styles/css/main.css">
