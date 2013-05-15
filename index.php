@@ -7,7 +7,7 @@
 	<p>	Un autre ajout </p>
 </div>
 <ul>
-	<li> hhhhhh</li>
+	<li> accueil</li>
 </ul>
 <div class="main_home">
 	<?php
